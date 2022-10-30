@@ -8,7 +8,7 @@ $umur = 19;
 echo "Nama saya <strong>$nama</strong>, saya $umur tahun.<br>";
 
 $namaAdik = "Freddy";
-$umurAdik = "16";
+$umurAdik = 16;
 
 echo "Nama adik saya <strong>$namaAdik</strong>, adik saya berusia $umurAdik tahun.<br>";
 
